@@ -1,0 +1,18 @@
+Average steps per month for a: 5630.685
+Average steps per month for s: 5868.055
+Average steps per month for d: 5797.592
+Average steps per month for f: 5788.428
+
+Winners for each month:
+The winner for January is d, with an average of 6250.839 steps.
+The winner for February is d, with an average of 6266.464 steps.
+The winner for March is f, with an average of 5933.323 steps.
+The winner for April is s, with an average of 6467.433 steps.
+The winner for May is a, with an average of 6907.387 steps.
+The winner for June is s, with an average of 6299.167 steps.
+The winner for July is d, with an average of 6536.806 steps.
+The winner for August is s, with an average of 6250.774 steps.
+The winner for September is s, with an average of 6252.933 steps.
+The winner for October is f, with an average of 6181.968 steps.
+The winner for November is a, with an average of 5662.900 steps.
+The winner for December is f, with an average of 6346.452 steps.
